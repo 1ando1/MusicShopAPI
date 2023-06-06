@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicShopAPI", "MusicShopAPI\MusicShopAPI.csproj", "{843FDC3A-267A-4493-8F55-AC11C5A6261E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{7713ED52-0DB8-4140-9A71-B9D1DF3D2D99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{48808537-A6AC-4638-B9F5-9F05FAA508E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{843FDC3A-267A-4493-8F55-AC11C5A6261E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843FDC3A-267A-4493-8F55-AC11C5A6261E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843FDC3A-267A-4493-8F55-AC11C5A6261E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843FDC3A-267A-4493-8F55-AC11C5A6261E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7713ED52-0DB8-4140-9A71-B9D1DF3D2D99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7713ED52-0DB8-4140-9A71-B9D1DF3D2D99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7713ED52-0DB8-4140-9A71-B9D1DF3D2D99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7713ED52-0DB8-4140-9A71-B9D1DF3D2D99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48808537-A6AC-4638-B9F5-9F05FAA508E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48808537-A6AC-4638-B9F5-9F05FAA508E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48808537-A6AC-4638-B9F5-9F05FAA508E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48808537-A6AC-4638-B9F5-9F05FAA508E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E66E5DC-B88B-4A49-8E41-00D90F9D1C95}
+	EndGlobalSection
+EndGlobal
